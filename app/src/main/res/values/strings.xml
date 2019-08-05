@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">AwesomeResume</string>
+    <string name="action_settings">Settings</string>
+<string name="edit_basic_info">Edit basic info</string>
+
+<string name="section_education">Education</string>
+
+<string name="add_education">Add education</string>
+<string name="edit_education">Edit education</string>
+
+<string name="user_picture">User picture</string>
+</resources>
